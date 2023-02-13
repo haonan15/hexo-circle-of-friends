@@ -20,6 +20,8 @@ LINK:
   theme: butterfly
 - link: https://blog.bywind.xyz/link/
   theme: common1
+- link: https://blog.bywind.xyz/link/
+  theme: volantis
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
