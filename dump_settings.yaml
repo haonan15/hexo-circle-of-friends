@@ -25,16 +25,19 @@ LINK:
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
-  enable: false
+  enable: true
   json_api: ''
   list:
-  - - "\u8D30\u7339\u306E\u5C0F\u7A9D"
-    - https://noionion.top/
-    - https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
-  - - "Akilar\u306E\u7CD6\u679C\u5C4B"
-    - https://akilar.top/
-    - https://akilar.top/images/headimage.png
-  - - elizen
-    - https://elizen.me/
-    - https://akilar.top/images/headimage.png
-    - hello.xml
+  - - "\u968F\u98CE\u8D77"
+    - https://blog.bywind.xyz/
+    - https://cloud-image-host.oss-cn-beijing.aliyuncs.com/wo.jpg
+  - - "\u5F20\u6D2AHeo"
+    - https://blog.zhheo.com/
+    - https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png
+  - - Jayhrn
+    - https://blog.jayhrn.com
+    - https://unpkg.com/jayblog-source@1.0.1/img/normal/avatar.webp
+    - ''
+  - - "\u5B89\u77E5\u9C7C`Blog"
+    - https://anzhiy.cn/
+    - https://image.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg
